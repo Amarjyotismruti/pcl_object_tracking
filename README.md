@@ -1,7 +1,7 @@
 # pcl_object_tracking
 Color based segmentation and point cloud extraction.(Current configurations are for tracking orange coloured objects, the colour can be varied by changing the hsv constraints)
 
-The built source files are located in Project_1 folder. Follow the following steps in order to run the executables.
+The built source files are located in Project_1 folder. Go through the following steps in order to run the executables.
 
 i. Copy the folder Project_1 to the catkin workspace/src folder.
 
